@@ -13,7 +13,7 @@ const port = 3000;
 //Hint 3: Add the CSS link in header.ejs
 
 //Step 4 - 
-//Hint: Google to find out how to get the current year using JS.
+//Hint: 
 
 app.use(bodyParser.urlencoded({ extended: true }));
 
